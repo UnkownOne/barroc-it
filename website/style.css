@@ -1,0 +1,45 @@
+*{
+  margin: 0 auto;
+}
+html{
+  background: url(img/Barroc_bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.flex_colum{
+  display: flex;
+  flex-direction: column;
+}
+.login{
+  margin-top: 25%;
+  float: left;
+  margin-right: 0;
+
+}
+.logo{
+  margin-top: 27%;
+  margin-left: 0;
+  border-left: groove 3px;
+}
+.container{
+  width: 80%;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+h1{
+
+}
+body{
+  text-align: center;
+}
+#page-wrap{
+  text-align: center;
+  margin: 0 auto;
+}
